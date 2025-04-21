@@ -9,6 +9,8 @@ public class Holamundogit {
 		System.out.println("Modificaciones en la rama1");
 		System.out.println("Hola mundo desde la rama master 4");
 		System.out.println("Modificación a la V1.0");
+		System.out.println("Hola mundo 5 java-git 1");
+		System.out.println("Hola mundo 5 java-git 2");
 	}
 	
 }
